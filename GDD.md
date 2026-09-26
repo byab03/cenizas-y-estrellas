@@ -16,7 +16,7 @@
 
 # PARTE 1: VISIÓN GENERAL
 
-**Pokémon: Cenizas y Estrellas** es un RPG de Pokémon creado en **RPG Maker XP** con **Pokémon Essentials**. Ambientado en la región de **Veridia**, el juego propone una historia madura y emocional sobre el perdón, el legado y las cicatrices que se honran en lugar de borrarse.
+**Pokémon: Cenizas y Estrellas** es un RPG de Pokémon creado en **RPG Maker XP** con **Pokémon Essentials**. Ambientado en la región de **Veridia**, el juego propone una historia madura y emocional sobre el perdón, el legado y las cicatrices que se honran en lugar de borrarse. El desarrollo se realiza en Maker Studio para prototipado y diseño, con la intención de migrar el producto final a OpenMon (Unity 6) para publicación multiplataforma.
 
 A diferencia de los juegos oficiales, el protagonista no es un niño que sueña con ser Campeón. Es un **joven artista** que nunca quiso ser entrenador, y que emprende un viaje obligado por la muerte de su madre, la legendaria Campeona **Saga**. Su objetivo no es conquistar gimnasios, sino **encontrar a los ocho Acreedores**, antiguos amigos de su madre, completar sus pruebas y descubrir la verdad sobre por qué ella los abandonó.
 

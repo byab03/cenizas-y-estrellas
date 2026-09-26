@@ -4,7 +4,7 @@
 > **Created**: 2026-09-12
 > **Last Updated**: 2026-09-12
 > **Source Concept**: GDD.md (raíz del proyecto, export narrativo de DeepSeek)
-> **Stack**: RPG Maker XP (RGSS) + Pokémon Essentials 21.1 + Maker Studio + plugin PE21.1
+> **Stack**: RPG Maker XP (RGSS) + Pokémon Essentials 21.1 + Maker Studio (Editor/Pipeline) → Migración OpenMon (Unity 6)
 
 ---
 
